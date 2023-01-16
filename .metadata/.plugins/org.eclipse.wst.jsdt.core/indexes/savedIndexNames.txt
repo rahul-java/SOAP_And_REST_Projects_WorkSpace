@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+E:\SOAP_And_REST_Projects_WorkSpace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

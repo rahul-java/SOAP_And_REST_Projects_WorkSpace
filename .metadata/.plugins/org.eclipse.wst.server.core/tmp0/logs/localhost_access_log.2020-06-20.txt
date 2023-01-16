@@ -1,0 +1,4 @@
+127.0.0.1 - - [20/Jun/2020:22:14:37 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:22:14:42 +0530] "GET /SHG_Rest_Client/ HTTP/1.1" 200 11178
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:22:14:57 +0530] "GET /SHG_Rest_Client/Bank_Detail_Servlet?ifsc=SBI000111 HTTP/1.1" 200 262
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:22:15:00 +0530] "GET /SHG_Rest_Client/District_Servlet?stCode=06 HTTP/1.1" 200 164
